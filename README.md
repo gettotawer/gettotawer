@@ -43,3 +43,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gettotawer&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gettotawer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :kimono: Мой codewars:
+![alt text](https://www.codewars.com/users/gettotawer/badges/large "codewars статистика")
