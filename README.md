@@ -1,6 +1,9 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100"/> 
   <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://vk.com/qwerty0555" target="_blank">
       <img src="https://img.shields.io/badge/-%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="Vkontakte Badge"/>
     </a>
