@@ -40,7 +40,7 @@
 </div>
 
 ### :zap: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gettotawer&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gettotawer&theme=react&border_radius=5&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gettotawer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
