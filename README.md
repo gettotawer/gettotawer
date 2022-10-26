@@ -1,6 +1,9 @@
 <div id="header" align="center"> 
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100"/> 
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/-%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="Vkontakte Badge"/>
+</div>
 
 <!--
 **gettotawer/gettotawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
