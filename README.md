@@ -42,7 +42,7 @@
 ### :zap: Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=gettotawer&theme=react&border_radius=5&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gettotawer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gettotawer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :kimono: Мой codewars:
 ![alt text](https://www.codewars.com/users/gettotawer/badges/large "codewars статистика")
