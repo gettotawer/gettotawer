@@ -18,12 +18,12 @@
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: Немного обо мне :
-Я Frontend-разработчик
-- Живу в Санкт-Петербурге :umbrella:
-- Учусь в университете :books:
-- Время от времени погружаюсь в бэкенд :microscope:
-- Люблю изучать что-то новое :hatching_chick:
-- Активно ищу стажировки :eyes:
+Я Frontend-разработчик<br/>
+- Живу в Санкт-Петербурге :umbrella:<br/>
+- Учусь в университете :books:<br/>
+- Время от времени погружаюсь в бэкенд :microscope:<br/>
+- Люблю изучать что-то новое :hatching_chick:<br/>
+- Активно ищу стажировки :eyes:<br/>
 
 <!--
 **gettotawer/gettotawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
