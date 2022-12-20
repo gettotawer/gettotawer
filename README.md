@@ -14,9 +14,9 @@
   </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ### :man_technologist: Немного обо мне:
 Меня зовут Максим, и я начинающий Frontend-разработчик<br/>
